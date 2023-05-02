@@ -1,9 +1,16 @@
 <div align="center">
-
-![gif](https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47w5us1vb9ved9rysx7ad8k3e766h1i01xu2rm5eiq&ep=v1_gifs_related&rid=giphy.gif&ct=s)
+  
+<img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47w5us1vb9ved9rysx7ad8k3e766h1i01xu2rm5eiq&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="coding-gif" height="225px" />
 
 <h1>Hello there! 👋</h1>
 </div>
+
+![Profile views](https://gpvc.arturio.dev/djbartolini)
+[![GitHub issues](https://badgen.net/github/issues/Naereen/Strapdown.js/)](https://GitHub.com/djbartolini/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/djbartolini/issues?q=is%3Aissue+is%3Aclosed)
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/djbartolini "Percentage of issues still open")
+[![Stack overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/20453473?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/20453473 "djbartolini's Stack Overflow Reputation")
+
 
 ---
 
@@ -12,7 +19,7 @@
 My name is Daniel Bartolini! I'm a programmer from NC.
 
 - I write apps with attractive UIs and scalable, efficient backends
-- I have a passion for learning
+- I have a passion for learning new technologies
 - Current projects:
   - [Tech About It](https://github.com/djbartolini/tech-about-it) - A full-stack blog website where I host my blog posts
   - [Pseudo-ku](https://github.com/djbartolini/pseudo-ku) - A desktop Sudoku app with a built-in solver
@@ -20,7 +27,7 @@ My name is Daniel Bartolini! I'm a programmer from NC.
   
 ---
 
-### :desktop_computer: What I work with:
+### :desktop_computer: &nbsp; What I work with:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -42,15 +49,17 @@ My name is Daniel Bartolini! I'm a programmer from NC.
 
 ---
 
-### :fire: My Stats:
+### :fire: &nbsp; My Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djbartolini&layout=compact&theme=vision-friendly-dark)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=djbartolini&layout=compact&theme=blue-green)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=djbartolini&layout=compact&theme=vision-friendly-dark)
+[![Stats](https://github-readme-stats.vercel.app/api?username=djbartolini&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djbartolini&layout=compact&theme=blue-green)
 
 ---
 
-### :card_file_box: Blog Posts:
+### :card_file_box: &nbsp; Blog Posts:
 
 These are hosted at my blog website, [Tech About It](http://tech-about-it-blog.herokuapp.com/).
 
