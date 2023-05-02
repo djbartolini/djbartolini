@@ -20,8 +20,12 @@ My name is Daniel Bartolini! I'm a programmer from NC.
 
 - I write apps with attractive UIs and scalable, efficient backends
 - I have a passion for learning new technologies
+- Notable projects:
+  - Tech About It - A blog website I developed to host my blog posts about computer science and all things tech
+  - Let's Get Quizzical - A quiz app that tests users knowledge of JavaScript 
+  - See [my Pinned Projects](https://github.com/djbartolini#:~:text=Customize%20your%20pins-,Pinned,-tech%2Dabout%2Dit) below for more!
 - Current projects:
-  - [Tech About It](https://github.com/djbartolini/tech-about-it) - A full-stack blog website where I host my blog posts
+  - Audio Waveform Analyzer - An app which provides spectral frequency and amplitude data in real-time for users creating audio files 
   - [Pseudo-ku](https://github.com/djbartolini/pseudo-ku) - A desktop Sudoku app with a built-in solver
   - [Binary Search Visualizer](https://github.com/djbartolini/binary-search-visualizer) - A simple website that allows user to visualize the binary search algorithm
   
