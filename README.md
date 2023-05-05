@@ -25,7 +25,7 @@ My name is Daniel Bartolini! I'm a programmer from NC.
   - See [my Pinned Projects](https://github.com/djbartolini#:~:text=Customize%20your%20pins-,Pinned,-tech%2Dabout%2Dit) below for more!
 - Current projects:
   - [Audio Spectral Analyzer](https://github.com/djbartolini/spectral-analyzer) - An app which provides spectral frequency and amplitude data in real-time for users creating audio files 
-  - [Pseudo-ku](https://github.com/djbartolini/pseudo-ku) - A desktop Sudoku app with a built-in solver
+  - [Blackjack](https://github.com/djbartolini/Blackjack) - A desktop Blackjack app
   - [Binary Search Visualizer](https://github.com/djbartolini/binary-search-visualizer) - A simple website that allows user to visualize the binary search algorithm
   
 ---
