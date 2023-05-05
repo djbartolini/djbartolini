@@ -6,7 +6,6 @@
 </div>
 
 ![Profile views](https://gpvc.arturio.dev/djbartolini)
-[![GitHub issues](https://badgen.net/github/issues/Naereen/Strapdown.js/)](https://GitHub.com/djbartolini/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/djbartolini/issues?q=is%3Aissue+is%3Aclosed)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/djbartolini "Percentage of issues still open")
 [![Stack overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/20453473?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/20453473 "djbartolini's Stack Overflow Reputation")
@@ -57,7 +56,7 @@ My name is Daniel Bartolini! I'm a programmer from NC.
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=djbartolini&layout=compact&theme=blue-green)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=djbartolini&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=djbartolini&theme=blue-green)](https://github.com/djbartolini/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djbartolini&layout=compact&theme=blue-green)
 
