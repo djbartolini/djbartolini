@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47w5us1vb9ved9rysx7ad8k3e766h1i01xu2rm5eiq&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="coding-gif" height="225px" />
+<img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47w5us1vb9ved9rysx7ad8k3e766h1i01xu2rm5eiq&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="coding-gif" height="150px" />
 
 <h1>Hello there! 👋</h1>
 </div>
@@ -25,8 +25,8 @@ My name is Daniel Bartolini! I'm a programmer from NC.
   - See [my Pinned Projects](https://github.com/djbartolini#:~:text=Customize%20your%20pins-,Pinned,-tech%2Dabout%2Dit) below for more!
 - Current projects:
   - [Audio Spectral Analyzer](https://github.com/djbartolini/spectral-analyzer) - An app which provides spectral frequency and amplitude data in real-time for users creating audio files 
-  - [Blackjack](https://github.com/djbartolini/Blackjack) - A desktop Blackjack app
-  - [Binary Search Visualizer](https://github.com/djbartolini/binary-search-visualizer) - A simple website that allows user to visualize the binary search algorithm
+  - [Tetris](https://github.com/djbartolini/Tetris) - A window-based Java implementation of famous video game Tetris
+  - Harmonic Series Tool- An app for musicians and audiophiles that allows users to hear and isolate the tones of the harmonic series for any given frequency value (note)
   
 ---
 
@@ -58,7 +58,7 @@ My name is Daniel Bartolini! I'm a programmer from NC.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=djbartolini&theme=blue-green)](https://github.com/djbartolini/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djbartolini&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djbartolini&layout=compact&theme=blue-green&hide=css,html&langs_count=6)
 
 ---
 
@@ -66,5 +66,6 @@ My name is Daniel Bartolini! I'm a programmer from NC.
 
 These are hosted at my blog website, [Tech About It](http://tech-about-it-blog.herokuapp.com/).
 
+- [All About APIs](http://tech-about-it-blog.herokuapp.com/post/12)
 - [Big O Explained: Time Complexity of Algorithms](http://tech-about-it-blog.herokuapp.com/post/7)
 - [Breaking Down RegEx](http://tech-about-it-blog.herokuapp.com/post/6)
