@@ -5,7 +5,6 @@
 <h1>Hello there! 👋</h1>
 </div>
 
-![Profile views](https://gpvc.arturio.dev/djbartolini)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/djbartolini/issues?q=is%3Aissue+is%3Aclosed)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/djbartolini "Percentage of issues still open")
 [![Stack overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/20453473?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/20453473 "djbartolini's Stack Overflow Reputation")
